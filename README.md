@@ -20,15 +20,16 @@ In this analysis ;
 
 ### Linear Regression to Predict MPG
 
-The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. Using R,  a linear model that predicts the mpg of MechaCar prototypes was designed by using several variables from the MechaCar_mpg.csv file. 
+The [MechaCar_mpg.csv](https://github.com/duygusimsek/MechaCar_Statistical_Analysis-/blob/main/MechaCar_mpg.csv) dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. Using R,  a linear model that predicts the mpg of MechaCar prototypes was designed by using several variables from the MechaCar_mpg.csv file. 
 
-* The MechaCar_mpg.csv file(add a link here) was downloaded and placed in the active directory of the R session.
-* An R script was written for a linear regression model to be performed on all six variables.
+* The [MechaCar_mpg.csv](https://github.com/duygusimsek/MechaCar_Statistical_Analysis-/blob/main/MechaCar_mpg.csv) was downloaded and placed in the active directory of the R session.
+* An R script was written for a linear regression model to be performed on all six variables.[MechaCarChallege.RScript.R](https://github.com/duygusimsek/MechaCar_Statistical_Analysis-/blob/main/MechaCarChallege.RScript.R)
 * An R script was written to create the statistical summary of the linear regression model with the intended p-values.
 
+
+![](url)
+
 The summary of the linear regression helps to determine the quality of the dataset. Examining the regression, the min value is -19.47, the max value is 18.58  and the median is -0.07 which is close to zero. 
-
-
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
