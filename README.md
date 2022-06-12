@@ -62,3 +62,6 @@ For the values of each of the 3 lots:
 ![Deliverable_2b.png](https://github.com/duygusimsek/MechaCar_Statistical_Analysis-/blob/main/images/Deliverable_2b.png)
 
 * Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+    - The entire population of the production lot displays that the variance of the coils is 62.29 PSI, which is well within the 100 PSI variance requirement.
+    - Examining the values of each 3 lots shows that, Lot 1 and Lot 2 are well within the 100 PSI variance requirement; with variances of 0.98 and 7.47 respectively. However, Lot 3, with a variance of 170.29, indicates much larger than the other two lots. Lot 3’ s excessive value of variance affects the entire population of production’s variance value. 
