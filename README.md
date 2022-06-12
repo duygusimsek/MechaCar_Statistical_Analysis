@@ -48,7 +48,7 @@ The summary of the linear regression helps to determine the quality of the datas
 
 ### Summary Statistics on Suspension Coils 
 
-The  Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Using R,  a summary statistics table  was created to show:
+The  [Suspension_Coil.csv](https://github.com/duygusimsek/MechaCar_Statistical_Analysis-/blob/main/Suspension_Coil.csv) dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Using R,  a summary statistics table  was created to show:
 
 * The suspension coil’s PSI continuous variable across all manufacturing lots
 * The following PSI metrics for each lot: mean, median, variance, and standard deviation.
