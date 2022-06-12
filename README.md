@@ -12,11 +12,9 @@ In this analysis ;
 
 * To determine if the manufacturing lots are statistically different from the mean population t-test was run. 
 
-* A statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers was designed.
+* A statistical study to compare the vehicle performance of the MechaCar vehicles against vehicles from other manufacturers was designed. 
 
-* A summary interpretation of the findings for each statistical analysis was written. 
-
-* Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. You’ll write a summary interpretation of the findings for each statistical analysis.
+* For the findings of each statistical analysis, a summary was written. 
 
 ## Results 
 
