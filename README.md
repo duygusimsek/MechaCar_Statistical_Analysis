@@ -45,3 +45,20 @@ The summary of the linear regression helps to determine the quality of the datas
 3.  Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
     - The linear regression shows the value of R-squared is 0.7149, which indicates that approximately 71% of all mpg predictions will be determined. Although there are still unconsidered factors, this model does predict the mpg of the MechaCar prototype with some relative effectiveness. 
+
+### Summary Statistics on Suspension Coils 
+
+The  Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Using R,  a summary statistics table  was created to show:
+
+* The suspension coil’s PSI continuous variable across all manufacturing lots
+* The following PSI metrics for each lot: mean, median, variance, and standard deviation.
+
+The first data frame shows the multiple production lots: 
+
+![Deliverable_2a.png](https://github.com/duygusimsek/MechaCar_Statistical_Analysis-/blob/main/images/Deliverable_2a.png)
+
+For the values of each of the 3 lots: 
+
+![Deliverable_2b.png](https://github.com/duygusimsek/MechaCar_Statistical_Analysis-/blob/main/images/Deliverable_2b.png)
+
+* Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
