@@ -27,7 +27,7 @@ The [MechaCar_mpg.csv](https://github.com/duygusimsek/MechaCar_Statistical_Anal
 * An R script was written to create the statistical summary of the linear regression model with the intended p-values.
 
 
-![](url)
+![Deliverable_1.png](https://github.com/duygusimsek/MechaCar_Statistical_Analysis-/blob/main/images/Deliverable_1.png)
 
 The summary of the linear regression helps to determine the quality of the dataset. Examining the regression, the min value is -19.47, the max value is 18.58  and the median is -0.07 which is close to zero. 
 
