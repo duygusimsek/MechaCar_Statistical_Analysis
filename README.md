@@ -85,3 +85,13 @@ For each individual lots:
 
 ![t.test_lots](https://github.com/duygusimsek/MechaCar_Statistical_Analysis/blob/main/images/t.test_lots.png)
 
+## Study Design: MechaCar vs Competition
+
+
+
+
+
+## Sources 
+
+* Data Source: “MechaCar_mpg.csv” and “Suspension_Coil.csv”
+* Software: RStudio and R
