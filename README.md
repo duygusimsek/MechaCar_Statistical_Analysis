@@ -65,3 +65,23 @@ For the values of each of the 3 lots:
 
     - The entire population of the production lot displays that the variance of the coils is 62.29 PSI, which is well within the 100 PSI variance requirement.
     - Examining the values of each 3 lots shows that, Lot 1 and Lot 2 are well within the 100 PSI variance requirement; with variances of 0.98 and 7.47 respectively. However, Lot 3, with a variance of 170.29, indicates much larger than the other two lots. Lot 3’ s excessive value of variance affects the entire population of production’s variance value. 
+
+### T-Tests on Suspension Coils
+
+To determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch, t-tests were performed. 
+
+   - The result of the t-test across all manufacturing lots displays that the true mean of the sample is 1498.78. The p-Value is 0.06, which is higher than the common significance level of 0.05, there is NOT enough evidence to support rejecting the null hypothesis.  
+
+![t.test](https://github.com/duygusimsek/MechaCar_Statistical_Analysis/blob/main/images/t.test.png)
+
+
+For each individual lots:
+
+* Lot 1 has the true sample mean of 1500. With a p-Value of 1, there is no statistical difference between the observed sample mean and the presumed population mean the null hypothesis cannot be rejected. 
+
+* Lot 2 has essentially the same outcome with a sample mean of 1500.02, a p-Value of 0.61; the null hypothesis cannot be rejected, and the sample mean and the population mean of 1500 are statistically similar.
+
+*  Lot 3 has a different result.  The sample mean is 1496.14 and the p-Value is 0.04. Those values are lower than the common significance level of 0.05, and the p-Value is low enough to reject the null hypothesis. This lot may need to be discarded or more closely evaluated.
+
+![t.test_lots](https://github.com/duygusimsek/MechaCar_Statistical_Analysis/blob/main/images/t.test_lots.png)
+
