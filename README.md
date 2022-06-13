@@ -87,9 +87,23 @@ For each individual lots:
 
 ## Study Design: MechaCar vs Competition
 
+There are many factors that consumers consider before purchasing a car. Comparing MechaCar to its competitor other metrics that could be of interest to a consumer could include cost, city fuel efficiency, highway fuel efficiency, horsepower or safety rating.
 
+1. What metric or metrics are you going to test?
 
+   The next metrics to test should be the safety rating, cost of the car, technology packages, engine power, engine type( electric, hybrid, gasoline),      the rate of depreciation, and highway fuel efficiency.
 
+2. What is the null hypothesis or alternative hypothesis?	
+   * Ho: The rate of depreciation for MechaCars is equal to their competitors. In other words, the mean is zero.
+   * Ha: The rate of depreciation for MechaCars is NOT equal to their competitors, which means the mean is NOT zero. 
+
+3. What statistical test would you use to test the hypothesis? And why?
+
+   A multiple linear regression would be used to determine the factors that have the highest predictability with MechaCar's rate of depreciation.
+   
+4. What data is needed to run the statistical test?
+ 
+   To perform multiple linear regression to predict the rate of depreciation, the data will need vehicle values, vehicle age, and mileage. 
 
 ## Sources 
 
